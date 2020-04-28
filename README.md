@@ -1,6 +1,4 @@
 # NarrativeDynamics
 
-David Pastor-Escuredo
-Carlota Tarazonal
-
+David Pastor-Escuredo and Carlota Tarazonal at itdUPM
 Copyright. All rights reserved.
